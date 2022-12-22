@@ -1,1 +1,2 @@
-# lab3bos
+# lab3bos 
+thanks Yurii Baryshev
